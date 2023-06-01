@@ -45,7 +45,7 @@ function App() {
   }
   return (
     <>
-      <Router basename='/TextUtils-React'>
+      <BrowserRouter basename='/TextUtils-React'>
         <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode}/>
         <Alert alert={alert}/>
         <div className="container my-3">
@@ -56,7 +56,7 @@ function App() {
               </Route>
           </Routes>
         </div>
-      </Router>
+      </BrowserRouter>
     </>
   );
 }

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CharanTeja1005/TextUtils-React.git/static/css/main.073c9b0a.css",
+    "main.js": "/CharanTeja1005/TextUtils-React.git/static/js/main.31c5fb29.js",
+    "static/js/787.719ec76d.chunk.js": "/CharanTeja1005/TextUtils-React.git/static/js/787.719ec76d.chunk.js",
+    "index.html": "/CharanTeja1005/TextUtils-React.git/index.html",
+    "main.073c9b0a.css.map": "/CharanTeja1005/TextUtils-React.git/static/css/main.073c9b0a.css.map",
+    "main.31c5fb29.js.map": "/CharanTeja1005/TextUtils-React.git/static/js/main.31c5fb29.js.map",
+    "787.719ec76d.chunk.js.map": "/CharanTeja1005/TextUtils-React.git/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.31c5fb29.js"
+  ]
+}
